@@ -1,0 +1,4 @@
+C:\Users\Adam\AppData\Local\Screeps\scripts\localhost\noob\bin\Debug\netcoreapp1.1\noob.deps.json
+C:\Users\Adam\AppData\Local\Screeps\scripts\localhost\noob\bin\Debug\netcoreapp1.1\noob.runtimeconfig.json
+C:\Users\Adam\AppData\Local\Screeps\scripts\localhost\noob\bin\Debug\netcoreapp1.1\noob.runtimeconfig.dev.json
+C:\Users\Adam\AppData\Local\Screeps\scripts\localhost\noob\obj\Debug\netcoreapp1.1\noob.csprojResolveAssemblyReference.cache
